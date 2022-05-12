@@ -6,8 +6,7 @@ int main(){
     for(int i=0; i<=100; i++){
         cout<<i<<endl;
     }
-    int i=0;
-    while(i <100){
-        
-    }
+
+
     return 0;
+}
